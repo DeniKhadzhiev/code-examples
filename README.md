@@ -1,6 +1,6 @@
 DB -- C++ client-server database with simplified self-written SQL
 
-FF -- Python web-application like Cahoot and Quizlet that was written during a hackoton(not finished yet).
+FF -- Python web-application like Cahoot and Quizlet that was written during a hackoton(design and button bind not finished yet).
 
 PE -- C++ parallelized evaluations(solving linear system)
 
